@@ -1,0 +1,12 @@
+id,name,category,price
+1,Water,Drink,2.00
+2,Latte,Drink,6.50
+3,Mocha,Drink,7.00
+4,Burger,Food,10.50
+5,Pasta,Food,12.00
+6,Salad,Food,9.00
+7,Pizza,Food,15.00
+8,Cake,Dessert,8.00
+9,Cookie,Dessert,4.00
+10,Brownie,Dessert,5.50
+11,Muffin,Dessert,5.00
